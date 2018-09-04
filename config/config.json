@@ -1,0 +1,12 @@
+{
+    "local": {
+        "MONGODB_URI": "mongodb://localhost:27017/gamecollectionLocal",
+        "JWT_SECRET": "ugabugaspodercomes1234/*-@#",
+        "SALT": 10
+    },
+    "production": {
+        "MONGODB_URI": "",
+        "JWT_SECRET": "",
+        "SALT": 10
+    }
+}
