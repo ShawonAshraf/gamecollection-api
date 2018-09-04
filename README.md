@@ -7,7 +7,7 @@ REST API for [gamecollection-webapp](https://github.com/ShawonAshraf/gamecollect
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 ## Runs on
-`express` and `mongo`. Also needs some `babel` transpile magic convert `es6` code. 
+`express` and `mongo`. Also needs some `babel` transpile magic to convert `es6` code. 
 
 ## Build & Run
 Before running make sure you've your MongoDB instance running. You can set the URL for DB instance in [config/config.json]("./config/config.json) file.
